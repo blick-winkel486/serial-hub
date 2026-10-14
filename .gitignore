@@ -1,0 +1,10 @@
+# 依赖
+node_modules/
+
+# 日志与运行时产物
+*.log
+serial-logs/
+.DS_Store
+
+# 环境变量（如需）
+.env
